@@ -15,11 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Ros, a Regulatory Affairs Specialist with a strong interest in data analysis. 
+I'm Ros from Malaysia. 
+
 Currently, I'm looking for a career change and open to junior roles in Data Analyst.
 
+✨ About Me ✨
+- A Regulatory Affairs Specialist for 4 years experience
+- Certified in Google Data Analytics
+- Love working with numbers and learning new skills.
+
 ## Projects
-Welcome to my portfolio, where I showcase my [projects](my-portfolio).
+Welcome to my portfolio, where I showcase my projects.
 
 ## Tools
 - Database: Google BigQuery, SQL Server, R
