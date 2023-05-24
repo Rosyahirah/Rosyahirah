@@ -19,7 +19,7 @@ I'm Ros, a Regulatory Affairs Specialist with a strong interest in data analysis
 Currently, I'm looking for a career change and open to junior roles in Data Analyst.
 
 ## Projects
-Welcome to my portfolio, where I showcase my [projects](#my-portfolio).
+Welcome to my portfolio, where I showcase my [projects](my-portfolio).
 
 ## Tools
 - Database: Google BigQuery, SQL Server, R
