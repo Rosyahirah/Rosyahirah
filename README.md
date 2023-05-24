@@ -1,5 +1,4 @@
 ### Hi there 👋
-**Welcome to my data portfolio! Here, I document a summary of my projects in the data field.**
 
 <!--
 **Rosyahirah/Rosyahirah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Table of Contents
-- [Data Analysis Project](#data-analysis-project)
-- [SQL](#SQL)
-- [Tableau](#Tableau)
+I'm Ros, a Regulatory Affairs Specialist with a strong interest in data analysis. 
+Currently, I'm looking for a career change and open to junior roles in Data Analyst.
+
+## Projects
+Welcome to my portfolio, where I showcase my [projects](#my-portfolio).
+
+## Tools
+- Database: Google BigQuery, SQL Server, R
+- Business Intelligence: Tableau
