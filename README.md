@@ -1,4 +1,5 @@
 ### Hi there 👋
+**Welcome to my data portfolio! Here, I document a summary of my projects in the data field.**
 
 <!--
 **Rosyahirah/Rosyahirah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Table of Contents
+- [Data Analysis Project](#data-analysis-project)
+- [SQL](#SQL)
+- [Tableau](#Tableau)
