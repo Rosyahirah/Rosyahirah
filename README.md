@@ -28,5 +28,6 @@ Currently, I'm looking for a career change and open to junior roles in Data Anal
 Welcome to my portfolio, where I showcase my projects.
 
 ## Tools
-- Database: Google BigQuery, SQL Server, R
-- Business Intelligence: Tableau
+- Database: Google BigQuery, SQL Server, R, Advanced Excel
+- Data Visualization: Tableau
+- Google Cloud Platform
